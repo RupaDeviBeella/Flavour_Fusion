@@ -1,4 +1,5 @@
 🍲 Flavour Fusion – AI Recipe Generator
+
 📌 Project Description
 
 Flavour Fusion is an AI-powered recipe generation web application developed using Python and Streamlit. This application helps users generate unique and creative recipes based on selected ingredients, cuisine type, or food preferences. It uses generative AI to provide step-by-step cooking instructions instantly.
